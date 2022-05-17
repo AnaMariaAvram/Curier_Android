@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.courier.manager.ui.ListFragment"
+        android:label="ListFragment" >
+        <action
+            android:id="@+id/action_listFragment_to_databaseFragment"
+            app:destination="@id/databaseFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/databaseFragment"
+        android:name="com.courier.manager.ui.DatabaseFragment"
+        android:label="DatabaseFragment" />
+
+</navigation>

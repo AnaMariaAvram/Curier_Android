@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Developing/CourierManager/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Developing/CourierManager/app/src/main/res/layout/fragment_database.xml" value="0.2916666666666667" />
+        <entry key="..\:/Developing/CourierManager/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/Developing/CourierManager/app/src/main/res/layout/item_courier.xml" value="0.5" />
+        <entry key="..\:/Developing/CourierManager/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.5307291666666667" />
+        <entry key="..\:/Users/avram/Downloads/CourierManager/CourierManager/app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/avram/Downloads/CourierManager/CourierManager/app/src/main/res/layout/fragment_database.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/avram/Downloads/CourierManager/CourierManager/app/src/main/res/layout/fragment_list.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/avram/Downloads/CourierManager/CourierManager/app/src/main/res/layout/item_courier.xml" value="0.19610507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
